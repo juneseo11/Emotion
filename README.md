@@ -2,6 +2,7 @@
 ## - 선형 회귀
 
 y = Wx+b 직선을 그려놓고, 그 직선을 바탕으로 예측하는 방법이 선형 회귀이다.
+
 ![image](https://user-images.githubusercontent.com/57161820/68100970-7fc8c580-ff0e-11e9-8af4-01ca188d1332.png)
 
 ## -손실 함수, 경사 하강법
